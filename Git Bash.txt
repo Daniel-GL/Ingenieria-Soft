@@ -1,0 +1,4 @@
+git clone /url/ - Clona el proyecto
+git push - Para enviar los cambios
+git pull - Para actualizar su repositorio
+git status - Para visualizar el estatus del repositorio
